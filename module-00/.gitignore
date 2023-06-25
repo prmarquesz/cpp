@@ -1,0 +1,9 @@
+.vscode
+obj/
+*.o
+a.out
+megaphone
+phonebook
+tests
+*.log
+.DS_Store

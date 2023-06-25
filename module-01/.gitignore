@@ -1,0 +1,13 @@
+.vscode
+*.sh
+obj/
+zombie
+zombieHorde
+brainstorm
+unnecessary_violence
+sed
+poem
+poem.replace
+harl
+harlFilter
+.DS_Store

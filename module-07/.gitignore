@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+obj/
+whatever
+iter
+array
+test.cpp
